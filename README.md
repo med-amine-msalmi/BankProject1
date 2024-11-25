@@ -1,5 +1,5 @@
 # BankProject1
-Welcome to **BankProject1**! This project is a console application designed to simulate basic banking operations.
+Welcome to **BankProject1**! This project is a console application using functions , designed to simulate basic banking operations.
 ### Login Credentials
 - **Username**: `admin` 
 - **Password**: `123`
