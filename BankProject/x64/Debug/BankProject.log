@@ -1,0 +1,6 @@
+﻿  BankProject.cpp
+C:\Users\ACER\source\repos\BankProject1\BankProject\BankProject.cpp(41,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\ACER\source\repos\BankProject1\BankProject\BankProject.cpp(480,1): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+C:\Users\ACER\source\repos\BankProject1\BankProject\BankProject.cpp(452,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\ACER\source\repos\BankProject1\BankProject\BankProject.cpp(510,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  BankProject.vcxproj -> C:\Users\ACER\source\repos\BankProject1\x64\Debug\BankProject.exe
